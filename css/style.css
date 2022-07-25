@@ -13,6 +13,7 @@ h4,
 h5,
 h6 {
   font-weight: 800;
+  text-transform: capitalize;
 }
 li {
   list-style: none;
@@ -31,3 +32,15 @@ a {
 }
 
 /* ==defult css end== */
+header {
+  width: [object Object]px;
+  height: [object Object]px;
+  background: #f8f8f8;
+  border: solid #bdbdbd 1px;
+  box-shadow: -4px 4px 41px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: -4px 4px 41px rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: -4px 4px 41px rgba(0, 0, 0, 0.5);
+}
+header h2 {
+  color: #c82333;
+}
